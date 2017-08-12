@@ -1,0 +1,1 @@
+This text file is created to check the funcationality of Git on Windows.
